@@ -11,15 +11,21 @@ h2{
   border-style: solid;
   border-width: medium;
   text-align:center;
+  float: center;
 }
 
 #left{
+  float: left;
   border-style: solid;
   border-width: medium;
   font-style: italic;
   width: 200px;
   height: 200px;
   color: green;
+}
+
+#right{
+  float: right;
 }
 
 img {
