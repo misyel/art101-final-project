@@ -20,6 +20,8 @@ h2{
 }
 
 #right{
+  border-style: solid;
+  border-width: medium;
   float: right;
   width: 800px;
   height: 800px;
