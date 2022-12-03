@@ -5,12 +5,7 @@ h1{
 
 h2{
   text-align: center;
-}
-
-#center{
-  border-style: solid;
-  border-width: medium;
-  text-align:center;
+  color: red;
 }
 
 #left{
@@ -26,6 +21,16 @@ h2{
 
 #right{
   float: right;
+  width: 800px;
+  height: 800px;
+}
+
+#center{
+  border-style: solid;
+  border-width: medium;
+  text-align:center;
+  width: 800px;
+  height: 800px;
 }
 
 img {
