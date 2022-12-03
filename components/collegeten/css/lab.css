@@ -14,26 +14,27 @@ h2{
   border-style: solid;
   border-width: medium;
   font-style: italic;
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
   color: green;
   padding-top: 10px;
+  background-color: #E6E6FA;
 }
 
 #right{
   border-style: solid;
   border-width: medium;
   float: right;
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 #center{
   border-style: solid;
   border-width: medium;
   text-align:center;
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 400px;
 }
 
 img {
