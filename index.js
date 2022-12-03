@@ -11,31 +11,31 @@ const image = L.imageOverlay('map.png', bounds).addTo(map);
 map.fitBounds(bounds);
 
 const oakes = L.latLng([ 70, 480.2 ]);
-L.marker(oakes).addTo(map).bindPopup('<a href="components/oakes.html">oakes</a>');
+L.marker(oakes).addTo(map).bindPopup('<a href="components/oakes/oakes.html">oakes</a>');
 
 const rcc = L.latLng([ 145, 175.2 ]);
-L.marker(rcc).addTo(map).bindPopup('<a href="components/rcc.html">RCC</a>');
+L.marker(rcc).addTo(map).bindPopup('<a href="components/rcc/rcc.html">RCC</a>');
 
 const porter = L.latLng([ 400, 220]);
-L.marker(porter).addTo(map).bindPopup('<a href="components/porter.html">porter</a>');
+L.marker(porter).addTo(map).bindPopup('<a href="components/porter/porter.html">porter</a>');
 
 const kresge = L.latLng([ 600, 220]);
-L.marker(kresge).addTo(map).bindPopup('<a href="components/kresge.html">kresge</a>');
+L.marker(kresge).addTo(map).bindPopup('<a href="components/kresge/kresge.html">kresge</a>');
 
 const c10 = L.latLng([ 880, 360]);
-L.marker(c10).addTo(map).bindPopup('<a href="components/collegeten.html">college ten</a>');
+L.marker(c10).addTo(map).bindPopup('<a href="components/collegeten/collegeten.html">college ten</a>');
 
 const c9 = L.latLng([ 860, 600]);
-L.marker(c9).addTo(map).bindPopup('<a href="components/collegenine.html">college nine</a>');
+L.marker(c9).addTo(map).bindPopup('<a href="components/collegenine/collegenine.html">college nine</a>');
 
 const crown = L.latLng([ 860, 800]);
-L.marker(crown).addTo(map).bindPopup('<a href="components/crown.html">crown</a>');
+L.marker(crown).addTo(map).bindPopup('<a href="components/crown/crown.html">crown</a>');
 
 const merill = L.latLng([ 750, 930]);
-L.marker(merill).addTo(map).bindPopup('<a href="components/merill.html">merill</a>');
+L.marker(merill).addTo(map).bindPopup('<a href="components/merrill/merrill.html">merrill</a>');
 
 const stevenson = L.latLng([ 600, 830]);
-L.marker(stevenson).addTo(map).bindPopup('<a href="components/stevenson.html">stevenson</a>');
+L.marker(stevenson).addTo(map).bindPopup('<a href="components/stevenson/stevenson.html">stevenson</a>');
 
 const cowell = L.latLng([ 480, 920]);
-L.marker(cowell).addTo(map).bindPopup('<a href="components/cowell.html">cowell</a>');
+L.marker(cowell).addTo(map).bindPopup('<a href="components/cowell/cowell.html">cowell</a>');

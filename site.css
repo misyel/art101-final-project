@@ -1,12 +1,21 @@
 body {
-    background-color: #A1C298;
-    color: #F9F9F9;
+    background-color: #FEFCF3;
+    color: #222222;
 }
 
 #title {
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
-    margin-bottom: 5px;
+}
+
+#title h1 {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+#title h2 {
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 
 .container {
@@ -20,14 +29,32 @@ body {
     align-self: center;
 }
 
-nav ul {
+h1, h2{
     text-align: center;
-    list-style-type: none;
-    margin-bottom: 30px;
+  }
+  
+#header {
+  text-align: center;
+  margin-bottom: 20px;
 }
 
-nav ul li {
-    display: inline-block;
-    font-size: 20px;
-    padding: 0 20px;
+.item {
+  flex: 1 1 0;
+  margin: 0 5px;
+}
+
+#container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#right, #left {
+  border-radius: 8px;
+  background-color: #F3EFE0;
+  padding: 5px;
+}
+
+ul li{
+  padding-bottom: 5px;
 }
