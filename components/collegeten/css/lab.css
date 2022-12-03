@@ -36,6 +36,7 @@ h2{
   text-align:center;
   width: 400px;
   height: 400px;
+  float: center;
 }
 
 img {
@@ -43,5 +44,4 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  object-position: top 400px right 400px;
 }
