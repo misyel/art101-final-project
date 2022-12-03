@@ -43,5 +43,5 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  object-position: center;
+  object-position: top 400px right 400px;
 }
