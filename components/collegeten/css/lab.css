@@ -14,8 +14,8 @@ h2{
   border-style: solid;
   border-width: medium;
   font-style: italic;
-  width: 800px;
-  height: 800px;
+  width: 500px;
+  height: 500px;
   color: green;
   padding-top: 10px;
 }
@@ -24,16 +24,16 @@ h2{
   border-style: solid;
   border-width: medium;
   float: right;
-  width: 800px;
-  height: 800px;
+  width: 500px;
+  height: 500px;
 }
 
 #center{
   border-style: solid;
   border-width: medium;
   text-align:center;
-  width: 800px;
-  height: 800px;
+  width: 500px;
+  height: 500px;
 }
 
 img {
