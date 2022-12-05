@@ -78,3 +78,7 @@ img {
   width: 550px;
   height: auto;
 }
+
+ul {
+  list-style: none;
+}
