@@ -52,7 +52,7 @@ h1, h2{
 #right, #left, #map {
   border-radius: 8px;
   background-color: #F3EFE0;
-  padding: 5px;
+  padding: 5px 20px;
 }
 
 ul li{
@@ -81,4 +81,5 @@ img {
 
 ul {
   list-style: none;
+  padding: 0;
 }
