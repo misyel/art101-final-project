@@ -73,3 +73,8 @@ a:visited {
   display: flex; 
   justify-content: space-around;
 }
+
+img {
+  width: 550px;
+  height: auto;
+}
