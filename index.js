@@ -6,7 +6,7 @@ const map = L.map('map', {
 });
 
 const bounds = [[0,0], [1000,1000]];
-const image = L.imageOverlay('map.png', bounds).addTo(map);
+const image = L.imageOverlay('map2.jpeg', bounds).addTo(map);
 
 map.fitBounds(bounds);
 
